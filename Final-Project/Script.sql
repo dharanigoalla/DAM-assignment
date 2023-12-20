@@ -1,8 +1,8 @@
 -- DROP SCHEMA public;
 
-CREATE SCHEMA public AUTHORIZATION pg_database_owner;
+-- CREATE SCHEMA public AUTHORIZATION pg_database_owner;
 
-COMMENT ON SCHEMA public IS 'standard public schema';
+-- COMMENT ON SCHEMA public IS 'standard public schema';
 
 -- DROP SEQUENCE public.stock_data_id_seq;
 
